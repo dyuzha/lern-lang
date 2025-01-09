@@ -1,0 +1,78 @@
+Table : Таблица (Это не стол) : Стол (Это не таблица)
+Word : Слово (Это не lol)
+Implement : Реализовывать
+Deploy : Развертывать
+Often : Часто
+Together : Вместе
+Scalability : Масштабируемость
+Duty : Обязанность
+Encountered : Столкнулся
+Resolve : Решить
+Break down : Разложить (Речь) : Авария
+Straightforward : Прямолинейно
+Piece of cake : Проще простого (Кусок пирога)
+Ensuring : Гарантировать
+Swift : Быстрый
+Reliable : Надежный
+Performance : Производительность
+Simplicity : Простота
+Conduct : Руковоидить
+Thorough : Тщательно
+Issue : Проблема
+To identify and address : Выявить и устранить
+Recent : Недавний
+Contributions : Вклад
+Highlight : Выделить
+Approach : Подход
+Problem-solving : Решение проблем
+Encounter : Сталкиваться
+Both : Оба
+Expect : Ожидать
+Rites : Обряд
+Journey : Путешествие
+Weekly basis : Еженедельно
+To name a few : Чтобы назвать несколько
+Rivalry : Соперничество
+Become : Становиться
+Enduring : Устойчивый
+It is at this : Именно в это время
+Decide : Решать
+Hole : Нора
+By the title : По названию
+I'm going to try : Я буду пытаться
+Convince : Убеждать
+Spend : Тратить
+Countless : Бесчисленное множество
+To share the customizations : Поделиться настройками
+Depend : Зависеть
+Depending : В зависимости
+Requirement : Требование
+Probably : Вероятно
+Personally : Лично
+As few plugins as possible : Как можно меньше
+Bring : Принести
+Benefit : Выгода
+Workflow : Рабочий процесс
+Improve : Улучшать
+Amazing : Удивительный
+A lot easier : Намного проще
+Easily : Свободно (Не free...)
+Those : Те
+Is one of those things : Одна из тех вещей
+Watching live the effects : Наблюдая за эффектами в живую
+I decided to go on another route : Я решил пойти другим путем
+Stubborn : Упрямый
+While : Пока
+Several : Несколько
+There : Там
+Basically : По сути
+Mainly : В основном
+Preferred : Предпочтительный | Предпочитаемый
+Allow : Позволять | Разрешать
+Solution : Решение
+Complicate : Усложнять
+Complicated : Усложнять
+It sounds more complicated than it really is : Это звучит сложнее, чем есть на самом деле
+Assuming : Предполагая
+Ahead : Предстоящий
+Further : Дальше

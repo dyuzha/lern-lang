@@ -1,0 +1,81 @@
+table : таблица (Это не стол) : стол (это не таблица)
+word:Слово(   Это не lol )
+implement: реализовывать
+deploy: развертывать
+often: часто
+together: вместе
+scalability: масштабируемость
+duty: обязанность
+encountered : столкнулся
+resolve : решить
+break down : разложить (речь) : авария
+straightforward : прямолинейно
+piece of cake : проще простого (кусок пирога)
+ensuring : гарантировать
+swift: быстрый
+reliable : надежный
+performance : производительность
+simplicity : простота
+conduct : руковоидить
+thorough : тщательно
+issue : проблема
+to identify and address : выявить и устранить
+recent : недавний
+contributions: вклад
+highlight : выделить
+approach : подход
+problem-solving : решение проблем
+encounter : сталкиваться
+both : оба
+expect : ожидать
+rites : обряд
+journey : путешествие
+weekly basis : еженедельно
+to name a few : чтобы назвать несколько
+rivalry : соперничество
+become : становиться
+enduring : устойчивый
+It is at this : именно в это время
+decide : решать
+hole : нора
+By the title : по названию
+I'm going to try : я буду пытаться
+convince : убеждать
+spend : тратить
+countless : бесчисленное множество
+to share the customizations : поделиться настройками
+depend : зависеть
+depending : в зависимости
+requirement : требование
+probably : вероятно
+Personally : лично
+as few plugins as possible : как можно меньше
+bring : принести
+benefit : выгода
+workflow : рабочий процесс
+improve : улучшать
+amazing : удивительный
+a lot easier : намного проще
+easily : свободно (не free...)
+those : те
+is one of those things : одна из тех вещей
+Watching live the effects : наблюдая за эффектами в живую
+I decided to go on another route : я решил пойти другим путем
+Stubborn : упрямый
+while : пока
+several : несколько
+there : там
+basically : по сути
+mainly : в основном
+
+preferred : предпочтительный | предпочитаемый
+allow : позволять | разрешать
+
+solution : решение
+complicate : усложнять
+complicated : усложнять
+It sounds more complicated than it really is : это звучит сложнее, чем есть на самом деле
+assuming : предполагая
+ahead : предстоящий
+further : дальше
+

@@ -1,0 +1,874 @@
+[
+    {
+        "original": "Table",
+        "variants": [
+            {
+                "synonyms": [
+                    "Таблица"
+                ],
+                "sub_text": "Это не стол"
+            },
+            {
+                "synonyms": [
+                    "Стол"
+                ],
+                "sub_text": "Это не таблица"
+            }
+        ]
+    },
+    {
+        "original": "Word",
+        "variants": [
+            {
+                "synonyms": [
+                    "Слово"
+                ],
+                "sub_text": "Это не lol"
+            }
+        ]
+    },
+    {
+        "original": "Implement",
+        "variants": [
+            {
+                "synonyms": [
+                    "Реализовывать"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Deploy",
+        "variants": [
+            {
+                "synonyms": [
+                    "Развертывать"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Often",
+        "variants": [
+            {
+                "synonyms": [
+                    "Часто"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Together",
+        "variants": [
+            {
+                "synonyms": [
+                    "Вместе"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Scalability",
+        "variants": [
+            {
+                "synonyms": [
+                    "Масштабируемость"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Duty",
+        "variants": [
+            {
+                "synonyms": [
+                    "Обязанность"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Encountered",
+        "variants": [
+            {
+                "synonyms": [
+                    "Столкнулся"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Resolve",
+        "variants": [
+            {
+                "synonyms": [
+                    "Решить"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Break down",
+        "variants": [
+            {
+                "synonyms": [
+                    "Разложить"
+                ],
+                "sub_text": "Речь"
+            },
+            {
+                "synonyms": [
+                    "Авария"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Straightforward",
+        "variants": [
+            {
+                "synonyms": [
+                    "Прямолинейно"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Piece of cake",
+        "variants": [
+            {
+                "synonyms": [
+                    "Проще простого"
+                ],
+                "sub_text": "Кусок пирога"
+            }
+        ]
+    },
+    {
+        "original": "Ensuring",
+        "variants": [
+            {
+                "synonyms": [
+                    "Гарантировать"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Swift",
+        "variants": [
+            {
+                "synonyms": [
+                    "Быстрый"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Reliable",
+        "variants": [
+            {
+                "synonyms": [
+                    "Надежный"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Performance",
+        "variants": [
+            {
+                "synonyms": [
+                    "Производительность"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Simplicity",
+        "variants": [
+            {
+                "synonyms": [
+                    "Простота"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Conduct",
+        "variants": [
+            {
+                "synonyms": [
+                    "Руковоидить"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Thorough",
+        "variants": [
+            {
+                "synonyms": [
+                    "Тщательно"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Issue",
+        "variants": [
+            {
+                "synonyms": [
+                    "Проблема"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "To identify and address",
+        "variants": [
+            {
+                "synonyms": [
+                    "Выявить и устранить"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Recent",
+        "variants": [
+            {
+                "synonyms": [
+                    "Недавний"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Contributions",
+        "variants": [
+            {
+                "synonyms": [
+                    "Вклад"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Highlight",
+        "variants": [
+            {
+                "synonyms": [
+                    "Выделить"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Approach",
+        "variants": [
+            {
+                "synonyms": [
+                    "Подход"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Problem-solving",
+        "variants": [
+            {
+                "synonyms": [
+                    "Решение проблем"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Encounter",
+        "variants": [
+            {
+                "synonyms": [
+                    "Сталкиваться"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Both",
+        "variants": [
+            {
+                "synonyms": [
+                    "Оба"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Expect",
+        "variants": [
+            {
+                "synonyms": [
+                    "Ожидать"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Rites",
+        "variants": [
+            {
+                "synonyms": [
+                    "Обряд"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Journey",
+        "variants": [
+            {
+                "synonyms": [
+                    "Путешествие"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Weekly basis",
+        "variants": [
+            {
+                "synonyms": [
+                    "Еженедельно"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "To name a few",
+        "variants": [
+            {
+                "synonyms": [
+                    "Чтобы назвать несколько"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Rivalry",
+        "variants": [
+            {
+                "synonyms": [
+                    "Соперничество"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Become",
+        "variants": [
+            {
+                "synonyms": [
+                    "Становиться"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Enduring",
+        "variants": [
+            {
+                "synonyms": [
+                    "Устойчивый"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "It is at this",
+        "variants": [
+            {
+                "synonyms": [
+                    "Именно в это время"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Decide",
+        "variants": [
+            {
+                "synonyms": [
+                    "Решать"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Hole",
+        "variants": [
+            {
+                "synonyms": [
+                    "Нора"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "By the title",
+        "variants": [
+            {
+                "synonyms": [
+                    "По названию"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "I'm going to try",
+        "variants": [
+            {
+                "synonyms": [
+                    "Я буду пытаться"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Convince",
+        "variants": [
+            {
+                "synonyms": [
+                    "Убеждать"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Spend",
+        "variants": [
+            {
+                "synonyms": [
+                    "Тратить"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Countless",
+        "variants": [
+            {
+                "synonyms": [
+                    "Бесчисленное множество"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "To share the customizations",
+        "variants": [
+            {
+                "synonyms": [
+                    "Поделиться настройками"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Depend",
+        "variants": [
+            {
+                "synonyms": [
+                    "Зависеть"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Depending",
+        "variants": [
+            {
+                "synonyms": [
+                    "В зависимости"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Requirement",
+        "variants": [
+            {
+                "synonyms": [
+                    "Требование"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Probably",
+        "variants": [
+            {
+                "synonyms": [
+                    "Вероятно"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Personally",
+        "variants": [
+            {
+                "synonyms": [
+                    "Лично"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "As few plugins as possible",
+        "variants": [
+            {
+                "synonyms": [
+                    "Как можно меньше"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Bring",
+        "variants": [
+            {
+                "synonyms": [
+                    "Принести"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Benefit",
+        "variants": [
+            {
+                "synonyms": [
+                    "Выгода"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Workflow",
+        "variants": [
+            {
+                "synonyms": [
+                    "Рабочий процесс"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Improve",
+        "variants": [
+            {
+                "synonyms": [
+                    "Улучшать"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Amazing",
+        "variants": [
+            {
+                "synonyms": [
+                    "Удивительный"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "A lot easier",
+        "variants": [
+            {
+                "synonyms": [
+                    "Намного проще"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Easily",
+        "variants": [
+            {
+                "synonyms": [
+                    "Свободно"
+                ],
+                "sub_text": "Не free..."
+            }
+        ]
+    },
+    {
+        "original": "Those",
+        "variants": [
+            {
+                "synonyms": [
+                    "Те"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Is one of those things",
+        "variants": [
+            {
+                "synonyms": [
+                    "Одна из тех вещей"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Watching live the effects",
+        "variants": [
+            {
+                "synonyms": [
+                    "Наблюдая за эффектами в живую"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "I decided to go on another route",
+        "variants": [
+            {
+                "synonyms": [
+                    "Я решил пойти другим путем"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Stubborn",
+        "variants": [
+            {
+                "synonyms": [
+                    "Упрямый"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "While",
+        "variants": [
+            {
+                "synonyms": [
+                    "Пока"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Several",
+        "variants": [
+            {
+                "synonyms": [
+                    "Несколько"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "There",
+        "variants": [
+            {
+                "synonyms": [
+                    "Там"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Basically",
+        "variants": [
+            {
+                "synonyms": [
+                    "По сути"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Mainly",
+        "variants": [
+            {
+                "synonyms": [
+                    "В основном"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Preferred",
+        "variants": [
+            {
+                "synonyms": [
+                    "Предпочтительный",
+                    "Предпочитаемый"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Allow",
+        "variants": [
+            {
+                "synonyms": [
+                    "Позволять",
+                    "Разрешать"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Solution",
+        "variants": [
+            {
+                "synonyms": [
+                    "Решение"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Complicate",
+        "variants": [
+            {
+                "synonyms": [
+                    "Усложнять"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Complicated",
+        "variants": [
+            {
+                "synonyms": [
+                    "Усложнять"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "It sounds more complicated than it really is",
+        "variants": [
+            {
+                "synonyms": [
+                    "Это звучит сложнее, чем есть на самом деле"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Assuming",
+        "variants": [
+            {
+                "synonyms": [
+                    "Предполагая"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Ahead",
+        "variants": [
+            {
+                "synonyms": [
+                    "Предстоящий"
+                ],
+                "sub_text": null
+            }
+        ]
+    },
+    {
+        "original": "Further",
+        "variants": [
+            {
+                "synonyms": [
+                    "Дальше"
+                ],
+                "sub_text": null
+            }
+        ]
+    }
+]
